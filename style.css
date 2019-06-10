@@ -8,7 +8,7 @@ html,body{
     vertical-align: middle;
     padding:20px 0;
     background-color: white;
-    justify-content: center;
+    justify-content: ;
     margin: auto;
     height: 40px;
 }
@@ -18,9 +18,8 @@ html,body{
     
 }
 ion-icon{
-    font-size: 40px;
-    margin-left: 40px;
-    margin-right: 40px;
+    font-size: 30px;
+   margin: 0 10px;
 }
 .menu_hr{
     margin: 0;
