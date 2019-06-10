@@ -31,7 +31,7 @@ ion-icon{
     height: 45px;
     width: 45px;
     border-radius: 50%;
-    margin: 20px;
+    margin: 10px;
 }
 .uploaded-feeds{
     margin:30px auto;
@@ -39,6 +39,7 @@ ion-icon{
     height:600px;
     background-color: white;
 }
+
 /*--------------------------------------MEDIA QUERIES---------------------------------*/
 @media only screen and (max-width: 900px) {
  .input-search{
