@@ -39,7 +39,9 @@ ion-icon{
     height:600px;
     background-color: white;
 }
-
+.insta-uploaded-name{
+    display: flex;
+}
 /*--------------------------------------MEDIA QUERIES---------------------------------*/
 @media only screen and (max-width: 900px) {
  .input-search{
