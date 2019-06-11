@@ -48,6 +48,15 @@ ion-icon{
     font-size: 14px;
     vertical-align: middle;
 }
+.user-name--uploaded-img{
+    font-weight: 800;
+    
+    margin: auto 0;
+}
+
+.uploaded-img{
+    width: 100%;
+}
 /*--------------------------------------MEDIA QUERIES---------------------------------*/
 @media only screen and (max-width: 900px) {
  .input-search{
