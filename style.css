@@ -14,9 +14,12 @@ html,body{
     height: 40px;
 }
 .input-search{
+    border-color: #80808012;
     margin: 0 200px;
     width: 300px;
     text-align: center;
+    background-color: rgba(247, 235, 235, 0.17);
+  
 }
 ion-icon{
     font-size: 30px;
