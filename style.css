@@ -18,7 +18,7 @@ html,body{
     margin: 0 200px;
     width: 300px;
     text-align: center;
-    background-color: rgba(247, 235, 235, 0.17);
+    background-color: rgba(216, 206, 206, 0.17);
   
 }
 ion-icon{
@@ -44,6 +44,9 @@ ion-icon{
 }
 .insta-uploaded-name{
     display: flex;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    vertical-align: middle;
 }
 /*--------------------------------------MEDIA QUERIES---------------------------------*/
 @media only screen and (max-width: 900px) {
