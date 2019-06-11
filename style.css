@@ -22,7 +22,7 @@ html,body{
     background-color: rgba(216, 206, 206, 0.17);
   
 }
-ion-icon{
+.menu-icon{
     font-size: 30px;
    margin: 0 10px;
 }
@@ -59,6 +59,11 @@ ion-icon{
 }
 .upload-img-icons{
     display: flex;
+}
+.comment-icon{
+    font-size: 25px;
+    margin: 5px;
+    
 }
 
 /*--------------------------------------MEDIA QUERIES---------------------------------*/
