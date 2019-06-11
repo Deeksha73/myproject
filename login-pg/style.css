@@ -35,4 +35,12 @@ body{
     width: 250px;
     height: 30px;
     margin: 10px;
+    cursor: pointer;
+}
+
+.create-account{
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    font-family: 'Barlow', sans-serif;
 }
