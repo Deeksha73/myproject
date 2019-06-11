@@ -40,7 +40,7 @@ ion-icon{
 .uploaded-feeds{
     margin:30px auto;
     width: 600px;
-    height:600px;
+    height:auto;
     background-color: white;
 }
 .insta-uploaded-name{
