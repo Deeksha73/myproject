@@ -51,13 +51,16 @@ ion-icon{
 }
 .user-name--uploaded-img{
     font-weight: 800;
-    
     margin: auto 0;
 }
 
 .uploaded-img{
     width: 100%;
 }
+.upload-img-icons{
+    display: flex;
+}
+
 /*--------------------------------------MEDIA QUERIES---------------------------------*/
 @media only screen and (max-width: 900px) {
  .input-search{
