@@ -24,12 +24,14 @@ body{
     background-color: rgba(235, 231, 231, 0.62);
     border-color: rgba(0, 0, 0, 0.22);
     text-align: center;
-    
     width: 250px;
     height: 40px;
     margin: 20px;
 }
 .login-button{
+    border-radius: 10px;
+    background-color: rgba(182, 150, 203, 0.77);
+    border-color: rgba(0, 0, 0, 0.27);
     width: 250px;
     height: 30px;
     margin: 10px;
