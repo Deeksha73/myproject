@@ -1,0 +1,36 @@
+html,body{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+     background-image: url(bg.jpeg);
+     background-position: center;
+     background-size: cover;
+}
+.login-form{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    text-align: center;
+    margin: 120 auto;
+}
+.form-title{
+    font-family: 'Pacifico', cursive;
+    font-size: 36px;
+    color: rgb(127, 0, 157);
+}
+.login-input-box{
+    background-color: rgba(235, 231, 231, 0.62);
+    border-color: rgba(0, 0, 0, 0.22);
+    text-align: center;
+    
+    width: 250px;
+    height: 40px;
+    margin: 20px;
+}
+.login-button{
+    width: 250px;
+    height: 30px;
+    margin: 10px;
+}
