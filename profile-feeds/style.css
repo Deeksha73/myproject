@@ -5,11 +5,12 @@ html,body{
     box-sizing: border-box;
 }
 /*---------------------------------------------MENU--------------------------------------*/
+
 .menu{
     width: 100%;
     display: flex;
     vertical-align: middle;
-    padding:20px 0;
+    padding: 20px 0;
     background-color: white;
     justify-content: center;
     margin: auto;
@@ -32,7 +33,6 @@ html,body{
     width: 300px;
     text-align: center;
     background-color: rgba(216, 206, 206, 0.17);
-  
 }
 .menu-icon{
     font-size: 30px;
