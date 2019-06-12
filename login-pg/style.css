@@ -37,6 +37,8 @@ body{
     height: 30px;
     margin: 10px;
     cursor: pointer;
+    text-align: center;
+
 }
 
 .create-account{
