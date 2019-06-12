@@ -16,6 +16,9 @@ html,body{
     margin: auto;
     height: 40px;
 }
+.insta-icon,.insta-icon:visited,.insta-icon:focus{
+    color: black;
+}
 .vertical-line{
     width: 2px;
     background-color: black;
@@ -41,6 +44,9 @@ html,body{
 .menu_hr{
     margin: 0;
     background-color: rgb(185, 71, 71);
+}
+.account-icon,.account-icon:visited,.account-icon:focus{
+    color: black;
 }
 
 /*--------------------------------------UPLOADED IMAGES-------------------------------*/
