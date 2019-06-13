@@ -1,0 +1,12 @@
+.small-profile-pic{
+    height: 80px;
+    width: 80px;
+    margin: 35px;
+    display: inline-block;
+}
+.profile-info{
+    display: flex;
+}
+.user-name{
+    margin-top: 40;
+}
