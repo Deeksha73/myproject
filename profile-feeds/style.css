@@ -1,7 +1,7 @@
 html,body{
     margin: 0;
     padding: 0;
-    background: rgb(235, 244, 238);
+    background: rgba(207, 207, 212, 0.06);
     box-sizing: border-box;
 }
 /*---------------------------------------------MENU--------------------------------------*/

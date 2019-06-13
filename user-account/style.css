@@ -9,11 +9,12 @@
 }
 .user-name{
     margin-top: 40;
+    font-family: 'Quicksand', sans-serif;
 }
 .edit-profile-btn{
     width: 350px;
     padding: 5px;
     border-radius: 5px;
-    
+    background-color: rgba(226, 212, 212, 0.16);
     border-color: rgba(87, 81, 81, 0.1);
 }
