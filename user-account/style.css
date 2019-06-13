@@ -10,3 +10,10 @@
 .user-name{
     margin-top: 40;
 }
+.edit-profile-btn{
+    width: 350px;
+    padding: 5px;
+    border-radius: 5px;
+    
+    border-color: rgba(87, 81, 81, 0.1);
+}
