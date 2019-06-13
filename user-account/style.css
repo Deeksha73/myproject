@@ -6,10 +6,15 @@
 }
 .profile-info{
     display: flex;
+    justify-content: center;
 }
 .user-name{
     margin-top: 40;
     font-family: 'Quicksand', sans-serif;
+}
+.setting-icon{
+    margin-left: 10px;
+    color: rgb(92, 83, 83);
 }
 .edit-profile-btn{
     width: 350px;
@@ -19,7 +24,13 @@
     font-family: 'Quicksand', sans-serif;
     border-color: rgba(87, 81, 81, 0.1);
 }
+.user-information{
+    margin: auto;
+    
+}
 .user-full-name{
+    display: flex;
+    justify-content: center;
     margin-bottom: 0;
     margin-left: 10px;
     font-weight: 700;
@@ -27,6 +38,8 @@
     font-family: 'Open Sans', sans-serif;
 }
 .user-bio{
+    display: flex;
+    justify-content: center;
     font-size: 14px;
     margin-top: 0;
     margin-left: 10px;
@@ -37,3 +50,13 @@
     height: 1px;
     background-color: rgb(190, 181, 181);
 }
+.profile-icons{
+   display: flex;
+    justify-content: center;
+}
+.gallery-icon,.saved-icon,.people-icon{
+    height: 40px;
+    width: 45px;
+    margin: 10 45px;
+}
+
