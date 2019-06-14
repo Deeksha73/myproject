@@ -57,6 +57,7 @@
 }
 .gallery-icon,.saved-icon,.people-icon{
     height: 40px;
+    color: rgba(3, 0, 0, 0.67);
     width: 45px;
     margin: 10 45px;
 }
