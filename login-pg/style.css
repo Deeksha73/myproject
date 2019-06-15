@@ -40,7 +40,10 @@ body{
     text-align: center;
 
 }
+.login-button:focus{
+    border-color: black;
 
+}
 .create-account{
     color: black;
     font-size: 14px;
