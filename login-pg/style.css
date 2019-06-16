@@ -53,6 +53,9 @@ body{
 .reg-form{
     display: none;
 }
+.login-form{
+    display: none;
+}
 
 /*-------------------------------------MEDIA QUERIES-----------------------*/
 
