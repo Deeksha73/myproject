@@ -3,4 +3,8 @@
 }
 .login-form{
     height: auto;
+    padding: 5px;
+}
+.form-title{
+    margin: 3px;
 }
