@@ -73,7 +73,7 @@
     width: 100%;
 }
 .popup-setting-menu{
-    margin: 200px auto;
+    margin: 0 auto;
     background-color: white;
     padding: 5px;
     width: 200px;
@@ -90,6 +90,12 @@ hr{
     font-family: "Roboto Mono",serif;
     font-size: 12px;
 }
+.popup-trans{
+    transition-delay: 2s;
+    transition: transform 1s;
+    transform: translateY(200px);
+}
+
 /*---------------------------------SETTINGS POPUP-------------------------*/
 
 /*---------------------------------MEDIA QUERIES-------------------------*/
