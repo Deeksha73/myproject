@@ -14,6 +14,7 @@
 }
 
 .popup-success{
+    display: none;
     z-index: 1;
     text-align: center;
     margin: 200px auto;
