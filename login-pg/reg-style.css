@@ -1,6 +1,7 @@
 .general-form{
     height: auto;
     padding: 10px;
+    display: none;
 }
 .login-input-box{
     margin: 5px;
@@ -10,4 +11,14 @@
     font-family: "Roboto Mono" ,serif;
     font-size: 13px;
     color: black;
+}
+
+.popup-success{
+    z-index: 1;
+    text-align: center;
+    margin: 200px auto;
+    background-color: #17ac17;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
 }
