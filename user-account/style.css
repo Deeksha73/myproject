@@ -64,6 +64,7 @@
     margin: 10 45px;
 }
 .popup-setting{
+    display: none;
     position: absolute;
     left: 0;
     top: 0;
@@ -81,11 +82,11 @@
     background-color: #ecf1f5;
 }
 hr{
-    margin: 0;
-    padding: 0;
-}
-.popup-menu-items{
     margin: 10px;
+}
+.popup-setting-menu>a{
+    text-decoration: none;
+    color: black;
     font-family: "Roboto Mono",serif;
     font-size: 12px;
 }
