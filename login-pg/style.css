@@ -50,11 +50,15 @@ body{
     text-decoration: none;
     font-family: 'Barlow', sans-serif;
 }
+/*------------------------------------Reg-box-----------------------------*/
 .show-reg-form{
     display: none;
 }
-
-
-
+.reg-height{
+    height: auto;
+}
+.box-margin{
+    margin: 5px;
+}
 /*-------------------------------------MEDIA QUERIES-----------------------*/
 
