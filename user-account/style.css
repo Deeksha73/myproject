@@ -63,6 +63,32 @@
     width: 45px;
     margin: 10 45px;
 }
+.popup-setting{
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.44);
+    height: 100%;
+    width: 100%;
+}
+.popup-setting-menu{
+    margin: 200px auto;
+    background-color: white;
+    padding: 5px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #ecf1f5;
+}
+hr{
+    margin: 0;
+    padding: 0;
+}
+.popup-menu-items{
+    margin: 10px;
+    font-family: "Roboto Mono",serif;
+    font-size: 12px;
+}
 /*---------------------------------SETTINGS POPUP-------------------------*/
 
 /*---------------------------------MEDIA QUERIES-------------------------*/
