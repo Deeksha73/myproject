@@ -91,8 +91,7 @@ hr{
     font-size: 12px;
 }
 .popup-trans{
-    transition-delay: 2s;
-    transition: transform 1s;
+
     transform: translateY(200px);
 }
 
