@@ -1,1 +1,13 @@
-
+.general-form{
+    height: auto;
+    padding: 10px;
+}
+.login-input-box{
+    margin: 5px;
+}
+.login-link{
+    text-decoration: none;
+    font-family: "Roboto Mono" ,serif;
+    font-size: 13px;
+    color: black;
+}
