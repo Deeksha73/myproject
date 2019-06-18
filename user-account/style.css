@@ -73,13 +73,11 @@
     width: 100%;
 }
 .popup-setting-menu{
+    margin: 200px auto;
     opacity: 0;
-    transform: translateY(-200px);
-    transition: opacity 1s,transform 1s;
-    margin: 0 auto;
     background-color: white;
     padding: 5px;
-    width: 200px;
+    width: 220px;
     border-radius: 10px;
     text-align: center;
     background-color: #ecf1f5;
@@ -87,16 +85,16 @@
 hr{
     margin: 10px;
 }
-.popup-setting-menu>a{
+
+.modal>a{
     text-decoration: none;
     color: black;
     font-family: "Roboto Mono",serif;
-    font-size: 12px;
+    font-size: 14px;
 }
 .popup-trans{
-    transform: translateY(200px);
     opacity: 1;
-     
+    transition: opacity 1s;
 }
 
 /*---------------------------------SETTINGS POPUP-------------------------*/
