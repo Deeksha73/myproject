@@ -74,7 +74,6 @@
 }
 .popup-setting-menu{
     margin: 200px auto;
-    opacity: 0;
     background-color: white;
     padding: 5px;
     width: 220px;
@@ -91,10 +90,6 @@ hr{
     color: black;
     font-family: "Roboto Mono",serif;
     font-size: 14px;
-}
-.popup-trans{
-    opacity: 1;
-    transition: opacity 1s;
 }
 
 /*---------------------------------SETTINGS POPUP-------------------------*/
